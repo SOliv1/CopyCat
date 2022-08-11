@@ -1,6 +1,5 @@
 import React from 'react';
-import styles from '../styles.js';
-import PropTypes from 'prop-types';
+
 
 const images = {
   copycat: 'https://content.codecademy.com/courses/React/react_photo_copycat.png',
@@ -9,19 +8,21 @@ const images = {
 
 
 class CopyCat extends React.Component {
-  
+     
   render() {
+    const copying = this.props.copying;
+    const toggleTape = this.props.toggleTape
+    
     return (
-      <div style={styles.divStyles}>
+      <div>
         <h1>Copy Cat</h1>
-
-        <img style={styles.imgStyles} alt='cat'
-          src={this.props.copying ? images.copycat : images.quietcat}
-          onClick={this.props.toggleTape}
-        />
+        <img 
+          alt='cat'
+          src={copying ? images.copycat : images.quietcat}
+          onClick={toggleTape}
+          />
       </div>
     );
   };
 }
-
 export default CopyCat;

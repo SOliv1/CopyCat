@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './App.css';
-import { CopyCatContainer } from '.\containers\CopyCatContainer.com';
+import { CopyCatContainer } from './containers/CopyCatContainer';
 
 function App() {
   return (
