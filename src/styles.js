@@ -7,7 +7,7 @@ const display = 'flex';
 const flexDirection = 'column';
 const alignItems = 'center';
 const justifyContent = 'center';
-const color = 'white';
+const color = 'red';
 const marginTop = '20px';
 const width = '50%';
 
@@ -27,4 +27,9 @@ const divStyles = {
 const imgStyles = {
   marginTop: marginTop,
   width: width
+};
+
+export const styles = {
+  divStyles: divStyles,
+  imgStyles: imgStyles
 };
