@@ -1,4 +1,13 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ee22421-5123-435a-a1cd-e12fd0acf89a/deploy-status?branch=master)](https://app.netlify.com/sites/copy-cat-react/deploys)
+[![CI](https://github.com/SOliv1/copy-cat/actions/workflows/main.yml/badge.svg)](https://github.com/SOliv1/copy-cat/actions/workflows/main.yml)
+
+# CopyCat 
+Watch the Tom Cat as he copies what you write - but you can stop him by clicking on his image and he will behave. Click on his image again and watch Tom the CopyCat!
+
+You can view the Project here [CopyCat(https://copy-cat-react.netlify.app/)
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-[![CI](https://github.com/SOliv1/copy-cat/actions/workflows/main.yml/badge.svg)](https://github.com/SOliv1/copy-cat/actions/workflows/main.yml)
