@@ -4,7 +4,7 @@
 # CopyCat 
 Watch the Tom Cat as he copies what you write - but you can stop him by clicking on his image and he will behave. Click on his image again and watch Tom the CopyCat!
 
-You can view the Project here [CopyCat](https://copy-cat-react.netlify.app/)
+## You can view the Project here at [CopyCat](https://copy-cat-react.netlify.app/)
 
 # Getting Started with Create React App
 
